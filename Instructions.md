@@ -29,7 +29,7 @@
 ### Required Installation 
 #### Installing Homebrew 
     
-    $ CD ..
+    $ cd ..
     $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 #### Install Java 17  
@@ -53,6 +53,5 @@
     $ export MAKEFLAGS="$MAKEFLAGS -j8" # Quad-Core
     $ ./build-rv32ima.sh # RV32
     
-    
-    
+ 
 
